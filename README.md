@@ -1,1 +1,1 @@
-# MANA-HUB-V1.2-BETA
+# MANA HUB-v1
